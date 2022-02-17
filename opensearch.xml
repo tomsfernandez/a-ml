@@ -4,8 +4,8 @@
   <ShortName>AML</ShortName>
   <Description>Search AML</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://aml-org.github.io/img/logos/amlLogo.svg</Image>
-  <Url type="text/html" method="get" template="https://aml-org.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://aml-org.github.io/opensearch.xml" />
-  <moz:SearchForm>https://aml-org.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://aml-org.github.io/a-ml/img/logos/amlLogo.svg</Image>
+  <Url type="text/html" method="get" template="https://aml-org.github.io/a-ml/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://aml-org.github.io/a-ml/opensearch.xml" />
+  <moz:SearchForm>https://aml-org.github.io/a-ml/</moz:SearchForm>
 </OpenSearchDescription>

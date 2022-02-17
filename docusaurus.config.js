@@ -3,7 +3,7 @@ module.exports = {
   title: 'AML',
   tagline: 'Standards and tools to define, parse and link metadata',
   url: 'https://aml-org.github.io',
-  baseUrl: '/',
+  baseUrl: '/a-ml/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logos/amlLogo.svg',
